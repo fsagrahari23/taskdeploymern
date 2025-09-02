@@ -58,6 +58,7 @@ function App() {
 
   const handleRetry = () => {
     fetchTasks();
+    console.log("done")
   };
 
   // let sangam = 'unused variable here';
